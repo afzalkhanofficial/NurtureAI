@@ -18,7 +18,7 @@
 
 ## 🌐 Live Demo
 
-> Try it live: [View Demo](https://your-demo-link.com) 🎉
+> Try it live: [View Demo](https://afzalkhanofficial.github.io/NurtureAI/) 🎉
 
 ---
 
